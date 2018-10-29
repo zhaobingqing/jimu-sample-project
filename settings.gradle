@@ -1,0 +1,13 @@
+include ':app',
+        ':sharecomponentkotlin',
+        ':readercomponent',
+        ':sharecomponent',
+        ':componentservice',
+        ':basicres',
+        ':basiclib'
+
+
+
+
+
+
